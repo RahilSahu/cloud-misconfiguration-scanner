@@ -1,0 +1,1 @@
+[{"bucket":"replace-with-your-bucket","type":"s3"},{"account":"replace-with-your-account","container":"uploads","type":"azure"},{"bucket":"replace-with-your-bucket","type":"gcs"},{"bucket":"backups","namespace":"replace-with-your-namespace","region":"ap-mumbai-1","type":"oci"}]
