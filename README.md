@@ -1,5 +1,7 @@
 # Cloud Misconfiguration Scanner
 
+[![tests](https://github.com/RahilSahu/cloud-misconfiguration-scanner/actions/workflows/tests.yml/badge.svg)](https://github.com/RahilSahu/cloud-misconfiguration-scanner/actions/workflows/tests.yml)
+
 A zero-dependency Python scanner that checks public exposure and
 dangerous configuration across **AWS, Microsoft Azure, Google Cloud
 and Oracle Cloud (OCI)**, the four clouds where a single wrong setting
